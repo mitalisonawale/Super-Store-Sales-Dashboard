@@ -1,4 +1,4 @@
-## 🚚 Supply Chain Performance Analysis  
+## 🚚 Super Store Sales Analysis  
 **Data Analytics Project — Operational Efficiency & Cost Optimization**
 
 ---
